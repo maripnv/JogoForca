@@ -1,1 +1,2 @@
-# JogoForca
+# Jogo de Forca
+Jogo desenvolvido no curso de: C: avançando na linguagem, ministrado pelo professor Maurício Aniche na plataforma Alura, em janeiro de 2023. O software tem como objetivo escolher aleatoriamente uma palavra que está salva em um arquivo (.txt) no computador. Assim, o usuário deve chutar, letra por letra, até adivinhar a palavra escolhida pelo computador. O programa também permite que o usuário insira uma nova palavra no banco de dados, ou seja, no arquivo que contém as palavras que podem ser sorteadas no jogo.
